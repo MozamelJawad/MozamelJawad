@@ -1,5 +1,6 @@
 
-<h2>👋 Hi, I’m <b> Mozamel Jawad</b></h2>
+### Hi there, **I'm Mozamel Jawad** 👋
+#### I'm a Full-stack Software Developer
 
 🔭 I did my MCS in information systems from Kabul University. <br> 
 🌱 I’m currently learning JavaScript, React, and Ruby at Microverse.<br>
