@@ -1,4 +1,4 @@
-![Mozamel Jawad](https://github.com/MozamelJawad/MozamelJawad/assets/14952154/f6196ffe-a0f6-4a29-ab0f-b76cc2c78e46)
+![Jawad](https://github.com/MozamelJawad/MozamelJawad/assets/14952154/7c2fd8c4-8627-4552-ae94-60ab49929e94)
 
 <!--
 ### Hi there, **I'm Mozamel Jawad** 👋
