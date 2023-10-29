@@ -1,9 +1,12 @@
+![Mozamel Jawad](https://github.com/MozamelJawad/MozamelJawad/assets/14952154/f6196ffe-a0f6-4a29-ab0f-b76cc2c78e46)
 
+<!--
 ### Hi there, **I'm Mozamel Jawad** 👋
 #### I'm a Full-stack Software Developer
+-->
 
 🔭 I did my MCS in information systems from Kabul University. <br> 
-🌱 I’m currently learning JavaScript, React, and Ruby at Microverse.<br>
+🌱 I’m currently learning JavaScript, React, Database, Ruby, and Ruby on Rails at Microverse.<br>
 👯 I’m looking to collaborate on new software development projects. <br>
 ⚡ Fun fact: I enjoy learning and working with up-to-date technologies.
 
