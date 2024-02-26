@@ -3,6 +3,7 @@
 <!--
 ### Hi there, **I'm Mozamel Jawad** 👋
 #### A Certified Full-stack Web Developer
+
 -->
 
 🔭 I did my MCS in information systems from Kabul University. <br> 
