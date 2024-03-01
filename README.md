@@ -5,6 +5,7 @@
 #### A Certified Full-stack Web Developer
 -->
 
+
 🔭 I did my MCS in information systems from Kabul University. <br> 
 🌱 I have completed coursework at Microverse, a remote software development program.<br>
 👯 I’m looking to collaborate on new software development projects. <br>
